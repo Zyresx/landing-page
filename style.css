@@ -48,6 +48,7 @@
 }
 .quote{
     background-color: #e5e7eb;
+    padding: 150px 300px;
 }
 .quote_text{
     font-size: 36px;
@@ -55,7 +56,11 @@
     font-weight: 200;
     color: #1f2937;
 }
-
+.quote_author{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: end;
+}
 .navbar{
     padding: 20px 200px;
     display: flex;
