@@ -120,3 +120,31 @@
     text-align: center;
 
 }
+.sign_up{
+    background-color: #3882F6;
+    margin: 100px 200px;
+    padding: 50px;
+    border-radius: 20px;
+    display:flex;
+    justify-content: space-between;
+}
+.sign_up_title{
+    color: #F9FAF8;
+    font-size: 30px;
+    font-weight: bold;
+}
+.sign_up_subtext{
+    color: #e5e7eb;
+    font-size: 20px;
+}
+.footer{
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.footer_text{
+    color: #E5E7EB;
+    font-size: 20px;
+}
